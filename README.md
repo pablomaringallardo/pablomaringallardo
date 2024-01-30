@@ -2,7 +2,7 @@
 
 <hr>
 
-- 📖 I'm currently doing a Mobile Bootcamp at [KeepCoding](https://keepcoding.io/).
+- 📖 I'm iOS developer 🍎
 - 🌱 Experience in Swift and SwiftUI
 
 ## iOS Skills
