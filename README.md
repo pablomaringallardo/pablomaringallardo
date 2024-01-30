@@ -2,7 +2,7 @@
 
 <hr>
 
-- 📖 I'm iOS developer 🍎
+- 🍎 I'm iOS developer
 - 🌱 Experience in Swift and SwiftUI
 
 ## iOS Skills
